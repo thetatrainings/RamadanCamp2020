@@ -20,6 +20,7 @@ namespace TestGitHub2020.Controllers
 
         public IActionResult Index()
         {
+            int a = 1;
             return View();
         }
 
