@@ -12,5 +12,10 @@ namespace TestGitHub2020.Controllers
         {
             return View();
         }
+
+        public IActionResult Aboutus()
+        {
+            return View();
+        }
     }
 }
